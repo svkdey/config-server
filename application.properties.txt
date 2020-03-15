@@ -1,4 +1,0 @@
-my.description=hello form remote
-db.url=url_db
-db.user=user
-db.password=passsword
